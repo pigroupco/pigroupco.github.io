@@ -10,7 +10,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # PiGroup Co
 
-[Go to website](http://www.pigroup.tk/).
+[Go to website](http://www.pigroup.tk/).<br />
+[Go to PIGROUP TV](https://www.youtube.com/channel/UCxkp7AQRylNztm_1GI3bgNg).<br />
 
 ## PiGroup Blogs
 
@@ -23,10 +24,12 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Go to website](http://tailieu.pigroup.tk/). <br />
 [Go to fanpage : Tài liệu PiGroup](https://www.facebook.com/piclubof19THPT). <br />
 [Go to Group Toán - lý - hóa PiGroup](https://www.facebook.com/groups/toanlihoapigroup). <br />
+[Go to PICLUBOF 19 Channel](https://www.youtube.com/channel/UCVwZdD_6QiDbRxopQoUodqw).
 
 #### PG Software
 
 [Go to website](http://software.pigroup.tk/). <br />
+[Go to PG SOFTWARE Channel](https://www.youtube.com/channel/UCJGcYPqJl_gMuYGqxNPgVFg).<br />
 
 ##### Quảng cáo PiGroup
 
